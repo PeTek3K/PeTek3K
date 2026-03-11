@@ -12,16 +12,16 @@ What I Do:
   Practice clean code and good software design.
 
 Some technologies I often work with:
-  Web Development:
+Web Development:
     *HTML
     *CSS
     *JavaScript
-  Backend Development:
+Backend Development:
     *Java
-  Mobile Development:
+Mobile Development:
     *Flutter
     *Dart
-  Tools:
+Tools:
     *Git & GitHub
     *IntelliJ IDEA
     *Visual Studio Code
